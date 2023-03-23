@@ -90,7 +90,7 @@ class CalendarApp
         Console.WriteLine("日 月 火 水 木 金 土");
 
         int day = 1;
-        for (int i = 0; i < 42; i++)
+        for (int i = 0; i < 37; i++)
         {
             if (i < startDayOfWeek || day > daysInMonth)
             {
