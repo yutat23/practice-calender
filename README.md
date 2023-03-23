@@ -12,4 +12,5 @@
 ## 課題
 
 本アプリには不具合があります。見つけてみてください。またそれを FIX することを応用課題とします。
+
 ヒント：<span style="color: white; ">Console.BufferHeight</span>
